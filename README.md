@@ -23,33 +23,33 @@
 <br>React.js
 </td>
 <td align="center" width="88">
-<img src="./images/07-nextjs.svg" alt="Next.js" width="44" height="44"/>
+<img src="./images/06-nextjs.svg" alt="Next.js" width="44" height="44"/>
 <br>Next.js
 </td>
 </tr>
 <tr>
 <td align="center" width="88">
-<img src="./images/08-nodejs.svg" alt="Node.js" width="44" height="44"/>
+<img src="./images/07-nodejs.svg" alt="Node.js" width="44" height="44"/>
 <br>Node.js
 </td>
 <td align="center" width="88">
-<img src="./images/14-sql.svg" alt="SQL" width="44" height="44"/>
+<img src="./images/08-sql.svg" alt="SQL" width="44" height="44"/>
 <br>SQL
 </td>
 <td align="center" width="88">
-<img src="./images/16-mongodb.svg" alt="MongoDB" width="44" height="44"/>
+<img src="./images/09-postman.svg" alt="Postman" width="44" height="44"/>
 <br>MongoDB
 </td>
 <td align="center" width="88">
-<img src="./images/15-postman.svg" alt="Postman" width="44" height="44"/>
+ <img src="./images/10-sass.svg" alt="Sass" width="44" height="44"/>
 <br>Postman
 </td>
 <td align="center" width="88">
-<img src="./images/12-tailwind.svg" alt="Tailwind" width="44" height="44"/>
+<img src="./images/11-docker.svg" alt="Docker" width="44" height="44"/>
 <br>Tailwind
 </td>
   <td align="center" width="88">
-<img src="./images/12-tailwind.svg" alt="Tailwind" width="44" height="44"/>
+<img src="./images/12-python.svg" alt="Python" width="44" height="44"/>
 <br>Tailwind
 </td>
 </tr>
