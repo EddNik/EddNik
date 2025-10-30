@@ -38,19 +38,19 @@
 </td>
 <td align="center" width="88">
 <img src="./images/09-postman.svg" alt="Postman" width="44" height="44"/>
-<br>MongoDB
-</td>
-<td align="center" width="88">
- <img src="./images/10-sass.svg" alt="Sass" width="44" height="44"/>
 <br>Postman
 </td>
 <td align="center" width="88">
+ <img src="./images/10-sass.svg" alt="Sass" width="44" height="44"/>
+<br>Sass
+</td>
+<td align="center" width="88">
 <img src="./images/11-docker.svg" alt="Docker" width="44" height="44"/>
-<br>Tailwind
+<br>Docker
 </td>
   <td align="center" width="88">
 <img src="./images/12-python.svg" alt="Python" width="44" height="44"/>
-<br>Tailwind
+<br>Python
 </td>
 </tr>
 </table>
