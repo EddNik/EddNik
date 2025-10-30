@@ -19,7 +19,7 @@
 <br>TypeScript
 </td>
 <td align="center" width="88">
-<img src="./images/06-react.svg" alt="React" width="44" height="44"/>
+<img src="./images/05-react.svg" alt="React" width="44" height="44"/>
 <br>React.js
 </td>
 <td align="center" width="88">
