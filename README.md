@@ -32,14 +32,13 @@
       <img src="./images/08-nodejs.svg" alt="Node.js" width="44" height="44"/>
       <br>Node.js
     </td>
-    </tr>
+  </tr>
         <td align="center" width="88">
         <img src="./images/14-sql.svg" alt="SQL" width="44" height="44"/>
       <br>SQL
      </td>
   
-  </td>
-      <td align="center" width="88">
+  <td align="center" width="88">
         <img src="./images/16-mongodb.svg" alt="MongoDB" width="44" height="44"/>
       <br>MongoDB
      </td>
