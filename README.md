@@ -1,6 +1,5 @@
 ## Hi there, my name is Eduard 👋
 
-
 ### My Stack :
 
 <table align="center">
@@ -52,6 +51,18 @@
       <br>Tailwind
     </td>
         <td align="center" width="88">
+        <img src="./images/10-sass.svg" alt="Sass" width="44" height="44"/>
+      <br>Sass
+    </td>
+     <td align="center" width="88">
+        <img src="./images/10-sass.svg" alt="Sass" width="44" height="44"/>
+      <br>Sass
+    </td>
+     <td align="center" width="88">
+        <img src="./images/10-sass.svg" alt="Sass" width="44" height="44"/>
+      <br>Sass
+    </td>
+     <td align="center" width="88">
         <img src="./images/10-sass.svg" alt="Sass" width="44" height="44"/>
       <br>Sass
     </td>
