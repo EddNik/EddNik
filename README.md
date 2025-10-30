@@ -48,6 +48,18 @@
 <img src="./images/12-tailwind.svg" alt="Tailwind" width="44" height="44"/>
 <br>Tailwind
 </td>
+  <td align="center" width="88">
+<img src="./images/12-tailwind.svg" alt="Tailwind" width="44" height="44"/>
+<br>Tailwind
+</td>
+  <td align="center" width="88">
+<img src="./images/12-tailwind.svg" alt="Tailwind" width="44" height="44"/>
+<br>Tailwind
+</td>
+  <td align="center" width="88">
+<img src="./images/12-tailwind.svg" alt="Tailwind" width="44" height="44"/>
+<br>Tailwind
+</td>
 </tr>
 </table>
 <!--
