@@ -67,8 +67,8 @@
 [![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
 -->
 &nbsp;&nbsp;
-[![website](./images/linkedin-light.svg)](www.linkedin.com/in/eduard-vyskrebtsov)
-[![website](./images/linkedin-dark.svg)](www.linkedin.com/in/eduard-vyskrebtsov)
+[![](./images/linkedin-light.svg)](www.linkedin.com/in/eduard-vyskrebtsov)
+[![](./images/linkedin-dark.svg)](www.linkedin.com/in/eduard-vyskrebtsov)
 <!--
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
