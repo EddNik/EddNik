@@ -56,7 +56,7 @@
 </table>
 
 ### Connect with me:
-
+<!--
 [![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
 &nbsp;&nbsp;
@@ -65,13 +65,15 @@
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+-->
 &nbsp;&nbsp;
 [![website](./images/linkedin-light.svg)](www.linkedin.com/in/eduard-vyskrebtsov)
 [![website](./images/linkedin-dark.svg)](www.linkedin.com/in/eduard-vyskrebtsov)
+<!--
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
-
+-->
 
 
 
