@@ -67,15 +67,15 @@
 [![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
 -->
 &nbsp;&nbsp;
-[![](./images/linkedin-light.svg)](www.linkedin.com/in/eduard-vyskrebtsov)
-[![](./images/linkedin-dark.svg)](www.linkedin.com/in/eduard-vyskrebtsov)
+[![](./images/linkedin-light.svg)](www.linkedin.com/in/eduard-vyskrebtsov#gh-light-mode-only)
+[![](./images/linkedin-dark.svg)](www.linkedin.com/in/eduard-vyskrebtsov#gh-dark-mode-only)
 <!--
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
 -->
-
-
+[website]: https://github.com/EddNik/EddNik
+[linkedin]: www.linkedin.com/in/eduard-vyskrebtsov
 
 <!--
 **EddNik/EddNik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
